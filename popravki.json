@@ -1,11 +1,10 @@
-
 {
-  "edits": {
-    "POSKUSGESLAR": [
-      "SAMODEJNA POSODOBITEV USPEŠNA"
-    ]
-  },
-  "deleted": [
+  "deleted" : [
     "TESTGESLAR"
-  ]
+  ],
+  "edits" : {
+    "POSKUSGESLAR" : [
+      "PREIZKUS POSODOBITEV"
+    ]
+  }
 }
