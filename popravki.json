@@ -1,11 +1,10 @@
 {
   "deleted" : [
     "TESTGESLAR",
-    "AVTOGESLAR2026"
+    "AVTOGESLAR2026",
+    "POSKUSGESLAR"
   ],
   "edits" : {
-    "POSKUSGESLAR" : [
-      "PREIZKUS POSODOBITEV"
-    ]
+
   }
 }
