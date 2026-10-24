@@ -2,11 +2,10 @@
   "deleted" : [
     "AVTOGESLAR2026",
     "POSKUSGESLAR",
-    "TESTGESLAR"
+    "TESTGESLAR",
+    "TESTSYNC2026"
   ],
   "edits" : {
-    "TESTSYNC2026" : [
-      "SINHRONIZACIJA USPEŠNA"
-    ]
+
   }
 }
